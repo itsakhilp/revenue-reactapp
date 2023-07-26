@@ -1,0 +1,36 @@
+.App {
+  max-width: 800px;
+  margin: 100px auto;
+  padding: 20px;
+  border: 2px solid rgb(88, 81, 81);
+}
+
+table {
+  width: 90%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #979b9bc7;
+  text-align: left;
+}
+
+tfoot {
+  font-weight: bold;
+  background-color: #979b9bc7;
+}
+
+.search-container {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+}
